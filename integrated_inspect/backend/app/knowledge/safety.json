@@ -1,0 +1,78 @@
+[
+  {
+    "hazard": "thunderstorm lightning",
+    "title": "Lightning and thunderstorm safety",
+    "keywords": [
+      "thunderstorm",
+      "lightning",
+      "thunder",
+      "squall",
+      "storm",
+      "hail"
+    ],
+    "text": "When thunderstorms or lightning are occurring, move indoors or into a substantial enclosed shelter. Avoid open fields, isolated trees, hilltops, water, and metal structures. Do not shelter under a tree. Follow official alerts and postpone unnecessary outdoor activity.",
+    "source_url": "https://sachet.ndma.gov.in/DosDont"
+  },
+  {
+    "hazard": "heavy rain flood",
+    "title": "Flood and heavy-rain safety",
+    "keywords": [
+      "heavy rain",
+      "flood",
+      "flooding",
+      "waterlogging",
+      "rain"
+    ],
+    "text": "During heavy rain or flooding, avoid walking or driving through moving or unknown-depth water, stay away from flooded underpasses and drainage channels, and follow local evacuation or official warning instructions. Move to safer higher ground when instructed.",
+    "source_url": "https://sachet.ndma.gov.in/DosDont"
+  },
+  {
+    "hazard": "heat wave",
+    "title": "Heat-wave safety",
+    "keywords": [
+      "heat",
+      "heatwave",
+      "hot",
+      "temperature",
+      "dehydration"
+    ],
+    "text": "During heat-wave conditions, reduce direct heat exposure, keep cool, and drink sufficient water even when not thirsty. Wear lightweight, loose clothing and cover the head when outdoors. Vulnerable people need extra care. Follow official IMD warnings.",
+    "source_url": "https://mausam.imd.gov.in/"
+  },
+  {
+    "hazard": "strong wind dust storm",
+    "title": "Strong-wind and dust-storm safety",
+    "keywords": [
+      "wind",
+      "gust",
+      "dust",
+      "squall"
+    ],
+    "text": "During strong winds or dust storms, move indoors, secure loose outdoor objects when safe, avoid trees, hoardings and unstable structures, and postpone unnecessary travel. Follow official warnings.",
+    "source_url": "https://sachet.ndma.gov.in/DosDont"
+  },
+  {
+    "hazard": "cold wave fog",
+    "title": "Cold-wave and fog safety",
+    "keywords": [
+      "cold",
+      "fog",
+      "visibility",
+      "winter"
+    ],
+    "text": "During dense fog or low visibility, reduce travel speed, use appropriate vehicle lights, keep a safe following distance, and avoid unnecessary travel. During cold-wave conditions, keep warm and follow local official advisories.",
+    "source_url": "https://sachet.ndma.gov.in/DosDont"
+  },
+  {
+    "hazard": "uv sun",
+    "title": "UV and sun-exposure safety",
+    "keywords": [
+      "uv",
+      "sun",
+      "solar",
+      "sunburn"
+    ],
+    "text": "When UV exposure is high, limit prolonged direct sun exposure, use shade or protective clothing, and stay hydrated. Use appropriate sun protection for outdoor activity.",
+    "source_url": "https://mausam.imd.gov.in/"
+  }
+]
